@@ -31,7 +31,7 @@ export default function Hobby() {
             </div>
             <div>
             Drawing is one of my favourite things to do when I am bored or want to pass time. 
-            I also draw because I enjoy sketching pictures I am interested in. Drwing can relieve stress from my head and calm myself. 
+            I also draw because I enjoy sketching pictures I am interested in. Drawing can relieve stress from my head and calm myself. 
 
                 <img src="https://media.istockphoto.com/id/871598016/photo/workplace-of-artist-flat-lay-top-view-desktop.jpg?s=612x612&w=0&k=20&c=9UZ1nq3Ce2kW_kmMy_aXhSr81l7WVE8zV3ZkOMBLcas=" alt="Image 3" class="w-full h-auto object-cover border-4 border-green-700"/>
             </div>

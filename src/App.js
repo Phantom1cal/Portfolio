@@ -4,6 +4,7 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
 import Hobby from "./components/Hobby";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <Skills />
       <Hobby />
       <Contact />
+      <Footer />
     </main>
   );
 }
